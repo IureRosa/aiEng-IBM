@@ -14,32 +14,30 @@ With all the many concepts you will learn, a big emphasis will be placed on hand
 
 In this course I get general concepts about the some ML algorithms, such as:
 
-<li>
-Regression:
-    <ul>
-    Simple linear regression
-    Multiple linear regression
-    Regression trees
-    </ul>
-</li>
+<ul>
+    <li>Regression
+        <ul>
+            <li>Simple linear regression</li>
+            <li>Multiple linear regression</li>
+            <li>Regression trees</li>
+        </ul>
+    </li>
+    <li>Clustering
+        <ul>
+            <li>K-means</li>
+        </ul>
+    </li>
+    <li>Regression
+        <ul>
+            <li>Logistic regression</li>
+            <li>KNN</li>
+            <li>SVM</li>
+            <li>Multiclass prediction</li>
+            <li>Decision trees</li>
+        </ul>
+    </li>
+</ul>
 
-<li>
-Clustering:
-    <ul>
-    K-means
-    </ul>
-</li>
-
-<li>
-Regression:
-    <ul>
-    Logistic regression
-    KNN
-    SVM
-    Multiclass prediction
-    Decision trees
-    </ul>
-</li>
 
 ### Intructors
 
