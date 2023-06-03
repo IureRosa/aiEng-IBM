@@ -27,7 +27,7 @@ In this course I get general concepts about the some ML algorithms, such as:
             <li>K-means</li>
         </ul>
     </li>
-    <li>Regression
+    <li>Classification
         <ul>
             <li>Logistic regression</li>
             <li>KNN</li>
