@@ -21,12 +21,16 @@ Regression:
     Multiple linear regression
     Regression trees
     </ul>
+</li>
 
+<li>
 Clustering:
     <ul>
     K-means
     </ul>
+</li>
 
+<li>
 Regression:
     <ul>
     Logistic regression
@@ -41,4 +45,10 @@ Regression:
 
 * Saeed Aghabozorgi, Ph.D., Sr. Data Scientist
 * Joseph Satarcangelo, Ph.D. Data Scientist at IBM
+
+
+### Dependencies
+
+* <a href="https://pypi.org/project/scipy/">SciPy</a>
+* <a href="https://pypi.org/project/scikit-learn/">Scikit learn</a>
 
