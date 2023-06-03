@@ -12,7 +12,7 @@ With all the many concepts you will learn, a big emphasis will be placed on hand
 
 ## Machine Learning Algorithms 
 
-In this course I get general concepts about the some ML algorithms, such as:
+In this course I get general concepts about ML, such as:
 
 <ul>
     <li>Regression
